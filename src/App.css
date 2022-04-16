@@ -20,7 +20,7 @@
   background-color: white;
   border: none;
   border-radius: 25px;
-  /* padding: 20px; */
+  padding: 20px;
   width: 40%;
   height: 20%;
   display: flex;
@@ -108,7 +108,21 @@
   }
 }  
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 600px) {
+  .card {
+      width: 80%;
+      height: 30%;
+  }
+
+  .app{
+    height: 100%;
+    background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  }
+}
+
+@media only screen and (min-width: 601px) {
   .card {
       width: 80%;
       height: 30%;
