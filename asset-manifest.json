@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Advice101/static/css/main.eb0c0c7d.css",
+    "main.css": "/Advice101/static/css/main.b5e50bf7.css",
     "main.js": "/Advice101/static/js/main.b16e2fec.js",
     "static/js/787.2eddc7e7.chunk.js": "/Advice101/static/js/787.2eddc7e7.chunk.js",
     "index.html": "/Advice101/index.html",
-    "main.eb0c0c7d.css.map": "/Advice101/static/css/main.eb0c0c7d.css.map",
+    "main.b5e50bf7.css.map": "/Advice101/static/css/main.b5e50bf7.css.map",
     "main.b16e2fec.js.map": "/Advice101/static/js/main.b16e2fec.js.map",
     "787.2eddc7e7.chunk.js.map": "/Advice101/static/js/787.2eddc7e7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb0c0c7d.css",
+    "static/css/main.b5e50bf7.css",
     "static/js/main.b16e2fec.js"
   ]
 }
